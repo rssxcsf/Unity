@@ -1,8 +1,5 @@
 # 类DOTA的2D横版ARPG游戏
-<div align="center">
   <b>手搓小项目，用于Unity引擎学习</b>
-</div>
-
 ## 📖 简介
 本科期间摸鱼小项目，使用Unity引擎实现的2D横版动作角色扮演游戏<br>
 vers:Unity 2022.3.53f1c1 C#<br>
